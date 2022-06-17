@@ -1,0 +1,14 @@
+[
+  {
+    "package": "rfPermute",
+    "oncran": true
+  },
+  {
+    "package": "sprex",
+    "oncran": true
+  },
+  {
+    "package": "swfscMisc",
+    "oncran": true
+  }
+]
