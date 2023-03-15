@@ -1,5 +1,9 @@
 [
   {
+    "package": "banter",
+    "oncran": true
+  },
+  {
     "package": "rfPermute",
     "oncran": true
   },
