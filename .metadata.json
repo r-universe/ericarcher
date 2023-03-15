@@ -1,6 +1,6 @@
 [
   {
-    "package": "rfPermute",
+    "package": "swfscMisc",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "swfscMisc",
+    "package": "rfPermute",
     "oncran": true
   }
 ]
