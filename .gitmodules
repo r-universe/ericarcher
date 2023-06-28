@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "banter"]
 	path = banter
 	url = https://github.com/ericarcher/banter
-	shallow = true
-	registered = true
 [submodule "rfPermute"]
 	path = rfPermute
 	url = https://github.com/ericarcher/rfpermute
-	shallow = true
-	registered = true
 [submodule "sprex"]
 	path = sprex
 	url = https://github.com/ericarcher/sprex
-	shallow = true
-	registered = true
 [submodule "swfscMisc"]
 	path = swfscMisc
 	url = https://github.com/ericarcher/swfscmisc
-	shallow = true
-	registered = true
