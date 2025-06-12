@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "banter"]
-	path = banter
-	url = https://github.com/ericarcher/banter
 [submodule "swfscMisc"]
 	path = swfscMisc
 	url = https://github.com/ericarcher/swfscmisc
